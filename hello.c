@@ -13,7 +13,10 @@ int main(void) {
 	
 	rintf("Dinesh Budhathoki");
 	printf("Mechanical Engineering");
+	
+	printf("Shane Nisley"/n);	
 
+	printf("Computer Science"/n);
 
 	return 0;
 }
