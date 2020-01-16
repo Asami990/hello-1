@@ -5,7 +5,9 @@ Date: 2020/14/1
 #include <stdio.h>
 
 int main(void) {
-	printf("Hello Word!\n");
+	printf("Osama Al Sabahi!\n");
+	printf("Electrical Engineering!\n");
+
 	return 0;
 }
 
