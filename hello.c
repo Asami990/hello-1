@@ -9,7 +9,11 @@ int main(void) {
 	printf("Electrical Engineering!\n");
 
 	printf("Matthew Toland"\n);
-	printf("Mechanical Engineering"\n)
+	printf("Mechanical Engineering"\n);
+	
+	rintf("Dinesh Budhathoki");
+	printf("Mechanical Engineering");
+
 
 	return 0;
 }
