@@ -8,6 +8,9 @@ int main(void) {
 	printf("Osama Al Sabahi!\n");
 	printf("Electrical Engineering!\n");
 
+	printf("Matthew Toland"\n);
+	printf("Mechanical Engineering"\n)
+
 	return 0;
 }
 
